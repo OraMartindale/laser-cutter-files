@@ -46,3 +46,9 @@ I'm not including the Starbuck's logo in my file for copyright reasons, but the 
 <img src="assets/starbucks-cup-with-smooth-edges.png" width="300" alt="Starbucks Cup with Smooth Edges">
 
 You'll notice the smooth edges on the right and left sides of the SVG file. This necessitated gluing the edges together, so the next iteration of the Starbuck's cup was to create interlocking teeth that would hold the cup edges together.
+
+## Dovetail Template
+
+<img src="dovetail-template.svg" width="100" alt="Dovetail Template">
+
+To make the edges of my Starbuck's cup connect without using glue, I made a dovetail on both edges. This file is the template that I created as a separate file so I would use it for other projects.
