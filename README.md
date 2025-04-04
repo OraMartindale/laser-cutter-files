@@ -47,6 +47,12 @@ I'm not including the Starbuck's logo in my file for copyright reasons, but the 
 
 You'll notice the smooth edges on the right and left sides of the SVG file. This necessitated gluing the edges together, so the next iteration of the Starbuck's cup was to create interlocking teeth that would hold the cup edges together.
 
+## Starbucks Sleeve
+
+<img src="starbucks-sleeve.svg" width="300" alt="Starbucks Sleeve">
+
+What's a Starbuck's cup without a sleeve? This file is simply a smaller version of the Starbuck's cup.
+
 ## Dovetail Template
 
 <img src="dovetail-template.svg" width="100" alt="Dovetail Template">
