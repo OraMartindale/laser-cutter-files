@@ -44,3 +44,5 @@ In order to create a rounded shape you cut a series of lines that run parallel t
 I'm not including the Starbuck's logo in my file for copyright reasons, but the original looked like this:
 
 <img src="assets/starbucks-cup-with-smooth-edges.png" width="300" alt="Starbucks Cup with Smooth Edges">
+
+You'll notice the smooth edges on the right and left sides of the SVG file. This necessitated gluing the edges together, so the next iteration of the Starbuck's cup was to create interlocking teeth that would hold the cup edges together.
