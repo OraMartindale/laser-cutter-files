@@ -35,11 +35,11 @@ The iconic shape of Gaff's origami unicorn in an SVG that you can laser cut or v
 
 <img src="starbucks-cup.svg" width="300" alt="Starbucks Cup">
 
-One of the most fun parts of laser cutting is creating shapes that you don't think you should be able to do with wood, including cylinders and cones. I was thinking about this while buying a coffee at Starbucks and the inspiration struck to create the shape with my laser cutter.
+One of the most fun parts of laser cutting is creating shapes that you don't think you should be able to do with wood, including cylinders and cones. I was thinking about this while buying a coffee at Starbucks and the inspiration struck to create the shape of a Starbuck's cup with my laser cutter.
 
-I disassembled the cup, traced its outline onto a piece of paper and carefully reproduced it as an SVG.
+I disassembled the cup, traced its outline onto a piece of paper, measured all the dimensions and carefully reproduced it as an SVG.
 
-In order to create a rounded shape you cut a series of lines that run parallel to each other in a tight formation. I started with a box design I downloaded from [Boxes.py](https://boxes.hackerspace-bamberg.de/) that had a flexible hinge. I extracted that flexible hinge into its own file and then began adjusting the lines to form a cone instead of being parallel.
+In order to create a rounded shape you cut a series of lines that run parallel to each other in a tight formation. I started with a box design I downloaded from [Boxes.py](https://lnkd.in/gpXs75nh) that had a flexible hinge. I extracted that flexible hinge into its own file and then began adjusting the lines to form a cone instead of parallel lines.
 
 I'm not including the Starbuck's logo in my file for copyright reasons, but the original looked like this:
 
