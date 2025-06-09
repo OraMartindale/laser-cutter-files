@@ -58,3 +58,11 @@ What's a Starbuck's cup without a sleeve? This file is simply a smaller version 
 <img src="dovetail-template.svg" width="100" alt="Dovetail Template">
 
 To make the edges of my Starbuck's cup connect without using glue, I made a dovetail on both edges. This file is the template that I created as a separate file so I would use it for other projects.
+
+## Scissor Case
+
+<img src="scissor-case.svg" width="100" alt="Scissor Case">
+
+This file is a scissor case similar to [some found on Etsy](https://www.etsy.com/search?q=wooden+scissor+case&ref=search_bar). I made a few of them for Christmas gifts last year.
+
+You'll want to print two of the inner layer. One inner layer glues to the top of the case; the second inner layer glues to the bttom of the case. The round holes in the inner layers are there to put in small magnets which hold the top and bottom layers together.
