@@ -66,3 +66,10 @@ To make the edges of my Starbuck's cup connect without using glue, I made a dove
 This file is a scissor case similar to [some found on Etsy](https://www.etsy.com/search?q=wooden+scissor+case&ref=search_bar). I made a few of them for Christmas gifts last year.
 
 You'll want to print two of the inner layer. One inner layer glues to the top of the case; the second inner layer glues to the bttom of the case. The round holes in the inner layers are there to put in small magnets which hold the top and bottom layers together.
+
+## Starbucks Lid
+
+<img src="starbucks-lid.svg" width="100" alt="Starbucks Lid">
+
+This is my first attempt at creating a lid for the Starbucks cup. While dimensionally accurate, the translation from plastic to wood doesn't achieve the aesthetic I wanted. It's functional but lacks the authentic Starbucks lid feel, so I plan to create an improved version soon.
+
