@@ -71,5 +71,6 @@ You'll want to print two of the inner layer. One inner layer glues to the top of
 
 <img src="starbucks-lid.svg" width="100" alt="Starbucks Lid">
 
-This is my first attempt at creating a lid for the Starbucks cup. While dimensionally accurate, the translation from plastic to wood doesn't achieve the aesthetic I wanted. It's functional but lacks the authentic Starbucks lid feel, so I plan to create an improved version soon.
+This is my second attempt at creating a lid for the Starbucks cup. The layer names indicate both quantity and assembly position. For instance, "Layer One & Three" means cut two circles for the first and third positions in the stack. "Layer Three, Four & Five" means cut three identical circles to use in positions 3-5. If there are two layers with the same position (like layer three), that means both layers will be assembled together (on top of layer two). The lid assembles like a layer cake from bottom to top.
 
+I'm still not satisfied with the aesthetic. On to version 3.
