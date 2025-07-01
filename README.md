@@ -72,3 +72,11 @@ You'll want to print two of the inner layer. One inner layer glues to the top of
 <img src="starbucks-lid.svg" width="100" alt="Starbucks Lid">
 
 This Starbucks lid is sized to fit on the Starbucks cup that you can find in this same repo. The lid assembles like a layer cake from bottom to top. Layer Three has two rings that both sit on top of Layer Two.
+
+## Box Set
+
+<img src="box-set.svg" width="300" alt="Box Set">
+
+Use this to create a wood box set for your favorite book series.
+
+In the future, I plan to create a script that will automatically create the file base on the dimensions of your book series.
