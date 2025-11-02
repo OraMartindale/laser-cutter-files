@@ -347,7 +347,21 @@ def generate_svg(book_width, book_height, book_thickness, material_thickness):
     )
     paths.append(top_path)
 
-    # Panel 2: Side panels
+    # Panel 2: Second top/bottom panel
+    x_position += top_panel_width + (2 * material_thickness) + MARGIN_LENGTH
+    bottom_path = create_top_and_bottom_path(
+        x_position,
+        y_position,
+        top_panel_inner_thickness,
+        material_thickness,
+        CORNER_LENGTH,
+        number_of_slots_and_fingers_for_width,
+        slot_and_finger_length_for_width,
+    )
+    paths.append(bottom_path)
+
+    # Panel 3: Side panels
+    x_position = MARGIN_LENGTH
     y_position += top_panel_inner_thickness + (3 * material_thickness) + MARGIN_LENGTH
     left_path = create_side_panel(
         x_position,
@@ -361,8 +375,22 @@ def generate_svg(book_width, book_height, book_thickness, material_thickness):
     )
     paths.append(left_path)
 
-    # Panel 3: Back panel
-    x_position = top_panel_width + (2 * material_thickness) + (MARGIN_LENGTH * 2)
+    # Panel 4: Second side panel (mirrored)
+    x_position += top_panel_width + (2 * material_thickness) + MARGIN_LENGTH
+    right_path = create_side_panel(
+        x_position,
+        y_position,
+        material_thickness,
+        CORNER_LENGTH,
+        number_of_slots_and_fingers_for_height,
+        slot_and_finger_length_for_height,
+        number_of_slots_and_fingers_for_width,
+        slot_and_finger_length_for_width,
+    )
+    paths.append(right_path)
+
+    # Panel 5: Back panel
+    x_position += top_panel_width + (2 * material_thickness) + MARGIN_LENGTH
     y_position = (
         top_panel_inner_thickness + (2 * material_thickness) + (MARGIN_LENGTH * 2)
     )
